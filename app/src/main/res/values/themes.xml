@@ -5,5 +5,7 @@
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
     </style>
 
-    <style name="Theme.ShoeLearningApp" parent="Base.Theme.ShoeLearningApp" />
+    <style name="Theme.ShoeLearningApp" parent="Base.Theme.ShoeLearningApp">
+        <item name="android:windowTranslucentNavigation">true</item>
+    </style>
 </resources>

@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Shoe Learning App</string>
+    <string name="intro_title">Step into your <font color="#6033ba"> style \n A world of shoes</font></string>
+    <string name="intro_description">Browse the latest style from top brands\n Get personalized recommendations\n Enjoy fast, free shipping</string>
+    <string name="intro_button">Let\'s Get Started</string>
+    <string name="intro_sign_in">Already have account? <font color="#6033ba">Sign In</font></string>
+    <string name="intro_logo">Intro logo</string>
 </resources>

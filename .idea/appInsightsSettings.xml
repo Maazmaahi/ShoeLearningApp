@@ -8,10 +8,10 @@
             <InsightsFilterSettings>
               <option name="connection">
                 <ConnectionSetting>
-                  <option name="appId" value="PLACEHOLDER" />
-                  <option name="mobileSdkAppId" value="" />
-                  <option name="projectId" value="" />
-                  <option name="projectNumber" value="" />
+                  <option name="appId" value="com.maahi.shoelearningapp" />
+                  <option name="mobileSdkAppId" value="1:412384529754:android:b076b5b68aada76917f763" />
+                  <option name="projectId" value="shoe-learning-app" />
+                  <option name="projectNumber" value="412384529754" />
                 </ConnectionSetting>
               </option>
               <option name="signal" value="SIGNAL_UNSPECIFIED" />
